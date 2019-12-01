@@ -1,4 +1,4 @@
 # playgaming
 
 
-<img src="playgaming/imagenesplaygame/login.PNG" >
+<img src="https://github.com/samuelvalverde28/playgaming/blob/master/imagenesplaygaming/login.PNG" >
