@@ -1,4 +1,4 @@
 # playgaming
 
 
-<img src="imagenesplaygame/login.PNG" >
+<img src="playgaming/imagenesplaygame/login.PNG" >
