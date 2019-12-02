@@ -1,6 +1,10 @@
 # playgaming
 
+Descripcion:
+Playgaming es un catalogo de juegos en el que prodras seleccionar los juegos que tu desees de una lista y podras añadirlo a tu catalogo en el cual podras catalogarlo en 4 modos jugando, completado, espera, dejado. En todo momento podras añadir y eliminar.
+Tambien tenemo la parte del administrador para manejar los usuarios y los juegos que hay.
 
+Uso de pagina web:
 La Pagina Web empieza con el Login a la izquierda el logo de la pagina de playgaming y a la izquierda tenemos los campos para rellenar y abajo un enlace para ir al registro
 <img src="https://github.com/samuelvalverde28/playgaming/blob/master/imagenesplaygaming/login.PNG" >
 
